@@ -6,5 +6,8 @@ OAMP Test:
 DAC Test:
 ![Screen Shot](https://github.com/SimeonSimeonovIvanov/ASIC/blob/master/Images/dac_amux_test.bmp)<br>
 
-4 to 16:
+4 to 16 (1):
 ![Screen Shot](https://raw.githubusercontent.com/SimeonSimeonovIvanov/ASIC/master/Images/3.png)<br>
+
+4 to 16 (2):
+![Screen Shot](https://github.com/SimeonSimeonovIvanov/ASIC/blob/master/Images/4BTO16T_MUX_TEST.png)<br>
